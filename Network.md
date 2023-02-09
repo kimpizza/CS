@@ -2,7 +2,7 @@
   <summary>Network</summary>
   
 - [OSI 7 계층](#OSI-7-계층)
-- [TCP/UDP](#TCP/UDP)
+- [TCP/UDP](#TCP와-UDP)
 
   
   
@@ -124,7 +124,8 @@ ___
 - 주요 프로토콜 : TELNET, FTP, SMTP, HTTP 등
 
 ___
-### TCP/UDP
+### TCP와 UDP
+  
 ![](https://velog.velcdn.com/images/posasac/post/3d7aea2b-d32c-47d0-af34-9cf682c191fb/image.png)
 
 TCP와 UDP는 OSI 표준 모델과 TCP/IP 모델의 전송(Transport)계층에서 사용되는 프로토콜
