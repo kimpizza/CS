@@ -2,6 +2,6 @@
 <details>
   <summary>목차</summary>
   
-- [Network](#Network.md)
+- [Network](https://github.com/kimpizza/CS/blob/main/Network.md)
 
 </details>
