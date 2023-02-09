@@ -2,6 +2,6 @@
 <details>
   <summary>목차</summary>
   
-- [Network](#Network)
+- [Network](#Network.md)
 
 </details>
