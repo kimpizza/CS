@@ -3,7 +3,7 @@
   
 - [OSI 7 계층](#OSI-7-계층)
 - [TCP와 UDP](#TCP와-UDP)
-- [TCP/IP](#TCP-/-IP)
+- [TCP/IP](#TCP/-IP)
 
   
   
