@@ -295,7 +295,9 @@ ___
 클라이언트는 능동 개방 요청을 유발한다.
 클라이언트는 특정 서버에게 연결이 필요하다는 것을 자신의 TCP에게 알린다.
 이때 3 way handshake 절차가 시작된다.
-
+  
+![](https://velog.velcdn.com/images/posasac/post/75cfbf58-3958-4d73-91fc-b987f1ab812d/image.png)
+  
 [step 1]
 클라이언트는 서버에 접속을 요청하는 SYN(연결요청)패킷을 보낸다.
 이때, 클라이언트는 SYN을 보내고 SYN/ACK 응답을 기다리는 SYN_SENT(로컬에서 연결요청(SYN)을 보낸 상태), 서버는 Wait for Client 상태이다
@@ -313,7 +315,7 @@ ___
   
 ### 4 way handshake
 3 way handshake가 TCP의 연결을 초기화 할 때 사용했다면, 4 way handshake는 세션을 종료하기 위해 수행되는 절차이다.
-
+![](https://velog.velcdn.com/images/posasac/post/665ab0df-0117-4610-8b50-6cde2f2dd1ee/image.png)
 [step 1]
 클라이언트가 연결을 종료한다는 FIN 플래그를 전송한다. 이때 클라이언트는 FIN-WAIT 상태가 된다.
 
